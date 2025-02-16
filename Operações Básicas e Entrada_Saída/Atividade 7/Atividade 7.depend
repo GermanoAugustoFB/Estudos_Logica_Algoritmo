@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1739674200 source:c:\users\germa\onedrive\Área de trabalho\estudos_logica_algoritmo\operações básicas e entrada_saída\atividade 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
