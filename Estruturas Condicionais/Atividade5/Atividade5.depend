@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741099584 source:c:\users\germa\onedrive\Área de trabalho\estudos_logica_algoritmo\estrutura de repetição\atividade5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
